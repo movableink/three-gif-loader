@@ -1,0 +1,14 @@
+{
+  "name": "three-gif-loader",
+  "version": "1.0.0",
+  "description": "Three.js plugin for loading animated gifs as textures",
+  "main": "index.js",
+  "repository": "https://github.com/movableink/three-gif-loader",
+  "author": "Michael Nutt <michael@movableink.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "omggif": "^1.0.9",
+    "three": ">= 0.92 < 1.0"
+  }
+}
